@@ -1,0 +1,5 @@
+add_executable(cuda_training_series_hw1_hello hello.cu)
+
+add_executable(cuda_training_series_hw1_matrix_mul matrix_mul.cu)
+
+add_executable(cuda_training_series_hw1_vector_add vector_add.cu)

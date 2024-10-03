@@ -1,0 +1,9 @@
+add_subdirectory(hw1)
+
+add_subdirectory(bank_confict)
+
+add_executable(cuda_training_series_vector_add vector_add.cu)
+
+add_executable(cuda_training_series_hw4_matrix_sums hw4_matrix_sums.cu)
+
+add_executable(cuda_training_series_hw5_matrix_sums hw5_matrix_sums.cu)
